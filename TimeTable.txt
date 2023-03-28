@@ -1,0 +1,17 @@
+1,Saturday,Spin,5,Yoga,5
+2,Saturday,Bodysculpt,5,Zumba,5
+3,Saturday,Aquacise,5,Box Fit,5
+4,Saturday,Spin,5,Yoga,5
+5,Saturday,Bodysculpt,5,Zumba,5
+6,Saturday,Aquacise,5,Box Fit,5
+7,Saturday,Spin,5,Yoga,5
+8,Saturday,Bodysculpt,5,Zumba,5
+9,Sunday,Aquacise,5,Box Fit,5
+10,Sunday,Spin,5,Yoga,5
+11,Sunday,Bodysculpt,5,Zumba,5
+12,Sunday,Aquacise,5,Box Fit,5
+13,Sunday,Spin,5,Yoga,5
+14,Sunday,Bodysculpt,5,Zumba,5
+15,Sunday,Aquacise,5,Box Fit,5
+16,Sunday,Spin,5,Yoga,5
+
